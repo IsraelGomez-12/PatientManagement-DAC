@@ -1,0 +1,17 @@
+/Users/admin/Desktop/PatientManagement/PatientManagement.Application/bin/Debug/net8.0/PatientManagement.Application.deps.json
+/Users/admin/Desktop/PatientManagement/PatientManagement.Application/bin/Debug/net8.0/PatientManagement.Application.dll
+/Users/admin/Desktop/PatientManagement/PatientManagement.Application/bin/Debug/net8.0/PatientManagement.Application.pdb
+/Users/admin/Desktop/PatientManagement/PatientManagement.Application/bin/Debug/net8.0/PatientManagement.Domain.dll
+/Users/admin/Desktop/PatientManagement/PatientManagement.Application/bin/Debug/net8.0/PatientManagement.Infrastructure.dll
+/Users/admin/Desktop/PatientManagement/PatientManagement.Application/bin/Debug/net8.0/PatientManagement.Domain.pdb
+/Users/admin/Desktop/PatientManagement/PatientManagement.Application/bin/Debug/net8.0/PatientManagement.Infrastructure.pdb
+/Users/admin/Desktop/PatientManagement/PatientManagement.Application/obj/Debug/net8.0/PatientManagement.Application.csproj.AssemblyReference.cache
+/Users/admin/Desktop/PatientManagement/PatientManagement.Application/obj/Debug/net8.0/PatientManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/PatientManagement/PatientManagement.Application/obj/Debug/net8.0/PatientManagement.Application.AssemblyInfoInputs.cache
+/Users/admin/Desktop/PatientManagement/PatientManagement.Application/obj/Debug/net8.0/PatientManagement.Application.AssemblyInfo.cs
+/Users/admin/Desktop/PatientManagement/PatientManagement.Application/obj/Debug/net8.0/PatientManagement.Application.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/PatientManagement/PatientManagement.Application/obj/Debug/net8.0/PatientM.9BD6FB13.Up2Date
+/Users/admin/Desktop/PatientManagement/PatientManagement.Application/obj/Debug/net8.0/PatientManagement.Application.dll
+/Users/admin/Desktop/PatientManagement/PatientManagement.Application/obj/Debug/net8.0/refint/PatientManagement.Application.dll
+/Users/admin/Desktop/PatientManagement/PatientManagement.Application/obj/Debug/net8.0/PatientManagement.Application.pdb
+/Users/admin/Desktop/PatientManagement/PatientManagement.Application/obj/Debug/net8.0/ref/PatientManagement.Application.dll

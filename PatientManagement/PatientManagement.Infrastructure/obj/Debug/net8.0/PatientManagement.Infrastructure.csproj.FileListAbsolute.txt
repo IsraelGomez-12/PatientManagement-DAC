@@ -1,0 +1,15 @@
+/Users/admin/Desktop/PatientManagement/PatientManagement.Infrastructure/bin/Debug/net8.0/PatientManagement.Infrastructure.deps.json
+/Users/admin/Desktop/PatientManagement/PatientManagement.Infrastructure/bin/Debug/net8.0/PatientManagement.Infrastructure.dll
+/Users/admin/Desktop/PatientManagement/PatientManagement.Infrastructure/bin/Debug/net8.0/PatientManagement.Infrastructure.pdb
+/Users/admin/Desktop/PatientManagement/PatientManagement.Infrastructure/bin/Debug/net8.0/PatientManagement.Domain.dll
+/Users/admin/Desktop/PatientManagement/PatientManagement.Infrastructure/bin/Debug/net8.0/PatientManagement.Domain.pdb
+/Users/admin/Desktop/PatientManagement/PatientManagement.Infrastructure/obj/Debug/net8.0/PatientManagement.Infrastructure.csproj.AssemblyReference.cache
+/Users/admin/Desktop/PatientManagement/PatientManagement.Infrastructure/obj/Debug/net8.0/PatientManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/PatientManagement/PatientManagement.Infrastructure/obj/Debug/net8.0/PatientManagement.Infrastructure.AssemblyInfoInputs.cache
+/Users/admin/Desktop/PatientManagement/PatientManagement.Infrastructure/obj/Debug/net8.0/PatientManagement.Infrastructure.AssemblyInfo.cs
+/Users/admin/Desktop/PatientManagement/PatientManagement.Infrastructure/obj/Debug/net8.0/PatientManagement.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/PatientManagement/PatientManagement.Infrastructure/obj/Debug/net8.0/PatientM.F5BBBADA.Up2Date
+/Users/admin/Desktop/PatientManagement/PatientManagement.Infrastructure/obj/Debug/net8.0/PatientManagement.Infrastructure.dll
+/Users/admin/Desktop/PatientManagement/PatientManagement.Infrastructure/obj/Debug/net8.0/refint/PatientManagement.Infrastructure.dll
+/Users/admin/Desktop/PatientManagement/PatientManagement.Infrastructure/obj/Debug/net8.0/PatientManagement.Infrastructure.pdb
+/Users/admin/Desktop/PatientManagement/PatientManagement.Infrastructure/obj/Debug/net8.0/ref/PatientManagement.Infrastructure.dll
