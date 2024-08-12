@@ -25,6 +25,7 @@
   <ItemGroup>
     <ProjectReference Include="..\PatientManagement.Application\PatientManagement.Application.csproj" />
     <ProjectReference Include="..\PatientManagement.API\PatientManagement.API.csproj" />
+    <ProjectReference Include="..\PatientManagement.Infrastructure\PatientManagement.Infrastructure.csproj" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Fixtures\" />
