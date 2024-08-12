@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z+FNpcPZa0UO3g6TUZz5gf0dVhJhziyRD59O/Rvqv+C4hcaqbV8vxP0e0XRSrbHhUzw4c3WuE5oPeh83gOEvEQ==",
+  "dgSpecHash": "mWsiqmfRSbSang2NOBU1CrwYVBCdENNpaFG9oCGQZWbMM5f5HVMw2BlqjFdux9yaObZJMdbg+goKCL7BSb20+g==",
   "success": true,
-  "projectFilePath": "/Users/admin/Desktop/PatientManagement/PatientManagement.Application/PatientManagement.Application.csproj",
+  "projectFilePath": "/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Application/PatientManagement.Application.csproj",
   "expectedPackageFiles": [
     "/Users/admin/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/admin/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

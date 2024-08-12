@@ -2211,11 +2211,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/admin/Desktop/PatientManagement/PatientManagement.API/PatientManagement.API.csproj",
+      "projectUniqueName": "/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.API/PatientManagement.API.csproj",
       "projectName": "PatientManagement.API",
-      "projectPath": "/Users/admin/Desktop/PatientManagement/PatientManagement.API/PatientManagement.API.csproj",
+      "projectPath": "/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.API/PatientManagement.API.csproj",
       "packagesPath": "/Users/admin/.nuget/packages/",
-      "outputPath": "/Users/admin/Desktop/PatientManagement/PatientManagement.API/obj/",
+      "outputPath": "/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/admin/.nuget/NuGet/NuGet.Config"
@@ -2230,8 +2230,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/admin/Desktop/PatientManagement/PatientManagement.Application/PatientManagement.Application.csproj": {
-              "projectPath": "/Users/admin/Desktop/PatientManagement/PatientManagement.Application/PatientManagement.Application.csproj"
+            "/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Application/PatientManagement.Application.csproj": {
+              "projectPath": "/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Application/PatientManagement.Application.csproj"
             }
           }
         }

@@ -9,3 +9,15 @@
 /Users/admin/Desktop/PatientManagement/PatientManagement.Domain/obj/Debug/net8.0/refint/PatientManagement.Domain.dll
 /Users/admin/Desktop/PatientManagement/PatientManagement.Domain/obj/Debug/net8.0/PatientManagement.Domain.pdb
 /Users/admin/Desktop/PatientManagement/PatientManagement.Domain/obj/Debug/net8.0/ref/PatientManagement.Domain.dll
+/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Domain/bin/Debug/net8.0/PatientManagement.Domain.deps.json
+/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Domain/bin/Debug/net8.0/PatientManagement.Domain.dll
+/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Domain/bin/Debug/net8.0/PatientManagement.Domain.pdb
+/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Domain/obj/Debug/net8.0/PatientManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Domain/obj/Debug/net8.0/PatientManagement.Domain.AssemblyInfoInputs.cache
+/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Domain/obj/Debug/net8.0/PatientManagement.Domain.AssemblyInfo.cs
+/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Domain/obj/Debug/net8.0/PatientManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Domain/obj/Debug/net8.0/PatientManagement.Domain.sourcelink.json
+/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Domain/obj/Debug/net8.0/PatientManagement.Domain.dll
+/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Domain/obj/Debug/net8.0/refint/PatientManagement.Domain.dll
+/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Domain/obj/Debug/net8.0/PatientManagement.Domain.pdb
+/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Domain/obj/Debug/net8.0/ref/PatientManagement.Domain.dll

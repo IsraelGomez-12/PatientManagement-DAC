@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I7WerILS2+Jm8ytqaYOqq9M/Siy8L20kZTSLtc6a1fQg4GRvxa7qwJJd9rF9dIWUR1UxFw26Z/F4SuCopW8/qQ==",
+  "dgSpecHash": "RRXKgvUuK0/CHhQJ/u8UIaGAMHijg8RVQAXj7SK49P0WnV1/4+9v2IlCm5QVm60wYk2zJ5prwkiBRjHTqnQqIg==",
   "success": true,
-  "projectFilePath": "/Users/admin/Desktop/PatientManagement/PatientManagement.Infrastructure/PatientManagement.Infrastructure.csproj",
+  "projectFilePath": "/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Infrastructure/PatientManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/admin/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/admin/.nuget/packages/azure.identity/1.11.3/azure.identity.1.11.3.nupkg.sha512",
