@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using Moq;
 using PatientManagement.API.Controllers;
 using PatientManagement.Application.DTOs;
-using PatientManagement.Application.Services;
+using PatientManagement.Application.Helpers.EncryptionServices;
 using PatientManagement.Application.Services.PatientServices;
 using PatientManagement.Domain.Models;
 using PatientManagement.Test.Fixtures;

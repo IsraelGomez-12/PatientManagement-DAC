@@ -10,17 +10,19 @@
     <None Remove="Services\" />
     <None Remove="Services\PatientServices\" />
     <None Remove="DTOs\" />
-    <None Remove="Services\JWTServices\" />
     <None Remove="Services\AuthenticateServices\" />
-    <None Remove="Services\EncryptionServices\" />
+    <None Remove="Helpers\" />
+    <None Remove="Helpers\EncryptionServices\" />
+    <None Remove="Helpers\JWTServices\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Services\" />
     <Folder Include="Services\PatientServices\" />
     <Folder Include="DTOs\" />
-    <Folder Include="Services\JWTServices\" />
     <Folder Include="Services\AuthenticateServices\" />
-    <Folder Include="Services\EncryptionServices\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Helpers\EncryptionServices\" />
+    <Folder Include="Helpers\JWTServices\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\PatientManagement.Domain\PatientManagement.Domain.csproj" />

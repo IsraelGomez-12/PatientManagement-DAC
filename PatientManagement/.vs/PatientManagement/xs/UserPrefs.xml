@@ -2,77 +2,62 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/admin/Desktop/PatientManagement/PatientManagement.Test/PatientControllerTest.cs" relfile="PatientManagement.Test/PatientControllerTest.cs" line="107" column="1" />
-      <Breakpoint file="/Users/admin/Desktop/PatientManagement/PatientManagement.Test/PatientControllerTest.cs" relfile="PatientManagement.Test/PatientControllerTest.cs" line="137" column="1" />
-      <Breakpoint file="/Users/admin/Desktop/PatientManagement/PatientManagement.Test/PatientControllerTest.cs" relfile="PatientManagement.Test/PatientControllerTest.cs" line="228" column="1" />
-      <Breakpoint file="/Users/admin/Desktop/PatientManagement/PatientManagement.Test/PatientControllerTest.cs" relfile="PatientManagement.Test/PatientControllerTest.cs" line="185" column="1" />
-      <Breakpoint file="/Users/admin/Desktop/PatientManagement/PatientManagement.API/Controllers/PatientController.cs" relfile="PatientManagement.API/Controllers/PatientController.cs" line="131" column="1" />
-      <Breakpoint file="/Users/admin/Desktop/PatientManagement/PatientManagement.Test/PatientControllerTest.cs" relfile="PatientManagement.Test/PatientControllerTest.cs" line="123" column="1" />
+      <Breakpoint file="/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Test/PatientControllerTest.cs" relfile="PatientManagement.Test/PatientControllerTest.cs" line="107" column="1" />
+      <Breakpoint file="/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Test/PatientControllerTest.cs" relfile="PatientManagement.Test/PatientControllerTest.cs" line="137" column="1" />
+      <Breakpoint file="/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Test/PatientControllerTest.cs" relfile="PatientManagement.Test/PatientControllerTest.cs" line="228" column="1" />
+      <Breakpoint file="/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Test/PatientControllerTest.cs" relfile="PatientManagement.Test/PatientControllerTest.cs" line="185" column="1" />
+      <Breakpoint file="/Users/admin/Desktop/GitHub/PatientManagement-DAC/PatientManagement/PatientManagement.Test/PatientControllerTest.cs" relfile="PatientManagement.Test/PatientControllerTest.cs" line="123" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.PatientManagement.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PatientManagement.Test/PatientControllerTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PatientManagement.Infrastructure/Repository/PatientRepository/IPatientRepository.cs">
     <Files>
       <File FileName="PatientManagement.Infrastructure/Repository/RepositoryBase.cs" />
-      <File FileName="PatientManagement.Infrastructure/Repository/PatientRepository/PatientRepository.cs" Line="50" Column="1" />
+      <File FileName="PatientManagement.Infrastructure/Repository/PatientRepository/PatientRepository.cs" />
       <File FileName="PatientManagement.Application/Services/PatientServices/IPatientService.cs" />
-      <File FileName="PatientManagement.Application/DTOs/PatientDTO.cs" Line="43" Column="78" />
+      <File FileName="PatientManagement.Application/DTOs/PatientDTO.cs" Line="18" Column="19" />
       <File FileName="PatientManagement.Application/DTOs/MappingProfile.cs" />
-      <File FileName="PatientManagement.Application/Services/PatientServices/PatientService.cs" Line="28" Column="1" />
-      <File FileName="PatientManagement.Infrastructure/Repository/PatientRepository/IPatientRepository.cs" />
-      <File FileName="PatientManagement.API/PatientManagement.API.http" Line="1" Column="1" />
-      <File FileName="PatientManagement.API/Program.cs" Line="80" Column="75" />
+      <File FileName="PatientManagement.Application/Services/PatientServices/PatientService.cs" />
+      <File FileName="PatientManagement.Infrastructure/Repository/PatientRepository/IPatientRepository.cs" Line="1" Column="1" />
+      <File FileName="PatientManagement.API/PatientManagement.API.http" />
+      <File FileName="PatientManagement.API/Program.cs" Line="109" Column="1" />
       <File FileName="PatientManagement.API/PatientManagement.API.csproj" />
-      <File FileName="PatientManagement.API/Controllers/PatientController.cs" Line="91" Column="1" />
-      <File FileName="PatientManagement.API/appsettings.json" Line="11" Column="1" />
+      <File FileName="PatientManagement.API/Controllers/PatientController.cs" Line="99" Column="1" />
+      <File FileName="PatientManagement.API/appsettings.json" />
       <File FileName="PatientManagement.Domain/Models/Patient.cs" />
       <File FileName="PatientManagement.Application/DTOs/LoginDTO.cs" />
       <File FileName="PatientManagement.Application/DTOs/TokenDTO.cs" />
       <File FileName="PatientManagement.Domain/Models/Users.cs" />
-      <File FileName="PatientManagement.Infrastructure/Repository/UserRepository/IUserRepository.cs" />
-      <File FileName="PatientManagement.Infrastructure/Repository/UserRepository/UserRespository.cs" />
+      <File FileName="PatientManagement.Infrastructure/Repository/UserRepository/IUserRepository.cs" Line="1" Column="1" />
+      <File FileName="PatientManagement.Infrastructure/Repository/UserRepository/UserRespository.cs" Line="1" Column="1" />
       <File FileName="PatientManagement.Application/Services/JWTServices/IJwtService.cs" />
-      <File FileName="PatientManagement.Application/Services/JWTServices/JwtService.cs" Line="15" Column="55" />
-      <File FileName="PatientManagement.API/Controllers/AuthenticationController.cs" Line="34" Column="40" />
-      <File FileName="PatientManagement.Application/Services/AuthenticateServices/IAuthenticateService.cs" Line="6" Column="39" />
-      <File FileName="PatientManagement.Application/Services/AuthenticateServices/AuthenticateServices.cs" Line="28" Column="1" />
-      <File FileName="PatientManagement.Infrastructure/Helpers/Encryption/IAesEncryptionService.cs" Line="2" Column="49" />
-      <File FileName="PatientManagement.Infrastructure/Helpers/Encryption/AesEncryptionService.cs" Line="46" Column="29" />
+      <File FileName="PatientManagement.Application/Services/JWTServices/JwtService.cs" />
+      <File FileName="PatientManagement.API/Controllers/AuthenticationController.cs" Line="27" Column="1" />
+      <File FileName="PatientManagement.Application/Services/AuthenticateServices/IAuthenticateService.cs" />
       <File FileName="PatientManagement.Test/PatientControllerTest.cs" Line="133" Column="1" />
-      <File FileName="PatientManagement.Test/Fixtures/PatientFixture.cs" Line="52" Column="30" />
-      <File FileName="PatientManagement.Test/AuthenticateControllerTest.cs" Line="68" Column="123" />
-      <File FileName="PatientManagement.Test/Fixtures/LoginFixture.cs" Line="17" Column="28" />
+      <File FileName="PatientManagement.Test/Fixtures/PatientFixture.cs" />
+      <File FileName="PatientManagement.Test/AuthenticateControllerTest.cs" />
+      <File FileName="PatientManagement.Test/Fixtures/LoginFixture.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PatientManagement" expanded="True">
-            <Node name="PatientManagement.API" expanded="True">
-              <Node name="Controllers" expanded="True" />
-            </Node>
-            <Node name="PatientManagement.Application" expanded="True">
-              <Node name="DTOs" expanded="True" />
-              <Node name="Services" expanded="True">
-                <Node name="PatientServices" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="PatientManagement.Infrastructure" expanded="True">
-              <Node name="Repository" expanded="True">
-                <Node name="PatientRepository" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="PatientManagement.Test" expanded="True">
-              <Node name="Fixtures" expanded="True" />
-              <Node name="PatientControllerTest.cs" selected="True" />
-            </Node>
+          <Node name="PatientManagement">
+            <Node name="PatientManagement.Infrastructure" expanded="True" />
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="PatientManagement">
+            <Node name="PatientManagement.Test" expanded="True">
+              <Node name="PatientManagement.Test" expanded="True" />
+            </Node>
+          </Node>
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PatientManagement.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

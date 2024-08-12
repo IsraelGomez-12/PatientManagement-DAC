@@ -3,7 +3,7 @@ using System.Security.Cryptography;
 using System.Text;
 using Microsoft.Extensions.Configuration;
 
-namespace PatientManagement.Application.Services
+namespace PatientManagement.Application.Helpers.EncryptionServices
 {
 	public class AesEncryptionService : IAesEncryptionService
 	{

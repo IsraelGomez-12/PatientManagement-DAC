@@ -1,5 +1,5 @@
 ﻿using System;
-namespace PatientManagement.Application.Services
+namespace PatientManagement.Application.Helpers.EncryptionServices
 {
 	public interface IAesEncryptionService
 	{

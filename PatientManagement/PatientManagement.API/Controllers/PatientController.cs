@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using PatientManagement.Application.DTOs;
-using PatientManagement.Application.Services;
+using PatientManagement.Application.Helpers.EncryptionServices;
 using PatientManagement.Application.Services.PatientServices;
 
 namespace PatientManagement.API.Controllers;

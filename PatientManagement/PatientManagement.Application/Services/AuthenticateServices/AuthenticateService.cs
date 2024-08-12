@@ -1,6 +1,6 @@
 ﻿using System;
 using PatientManagement.Application.DTOs;
-using PatientManagement.Application.Services.JWTServices;
+using PatientManagement.Application.Helpers.JWTServices;
 using PatientManagement.Infrastructure.Repository.UserRepository;
 
 namespace PatientManagement.Application.Services.AuthenticateServices

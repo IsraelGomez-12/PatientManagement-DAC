@@ -1,5 +1,5 @@
 ﻿using System;
-namespace PatientManagement.Application.Services.JWTServices
+namespace PatientManagement.Application.Helpers.JWTServices
 {
 	public interface IJwtService
 	{
